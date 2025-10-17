@@ -1,0 +1,1 @@
+The most challenging part was making the animation look smooth, and I solved it by experimenting with different CSS keyframes and easing styles.  
